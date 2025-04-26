@@ -1,2 +1,1 @@
-# devops-template
- 
+# NOME_DO_PROJETO
