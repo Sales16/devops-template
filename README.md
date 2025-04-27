@@ -1,1 +1,3 @@
-# NOME_DO_PROJETO
+# (NOME_DO_PROJETO)
+
+O projeto (NOME_DO_PROJETO) utiliza fastapi para criação de uma api...
